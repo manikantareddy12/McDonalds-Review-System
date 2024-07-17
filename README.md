@@ -66,6 +66,8 @@ nltk.download('vader_lexicon')
 #### Acknowledgments
 We would like to thank the data providers and the open-source community for their invaluable resources and tools that made this project possible. Special thanks to the instructors and peers for their guidance and support throughout the project.
 
+---
+Feel free to contribute to this project by submitting issues or pull requests. For any questions or suggestions, please contact reddy12923@gmail.com.
 
 
 
