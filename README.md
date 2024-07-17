@@ -1,6 +1,6 @@
 # McDonald's Customer Satisfaction Analysis
 
-Abstract
+## Abstract
 This study analyzes McDonald's customer satisfaction using machine learning approaches. We investigate what influences satisfaction based on internet reviews using sentiment analysis and predictive modeling. Feature extraction and text normalization are two examples of initial data preprocessing. While sentiment analysis provides information about the attitudes of customers, predictive modeling finds salient features like store specifics and time-related elements. Model effectiveness is validated using performance evaluation criteria such as accuracy, F1 score, and MSE. To improve predictive skills, more ML algorithms and sensitivity analysis are taken into consideration throughout further exploration.
 
 ## **Project Workflow**
@@ -65,6 +65,11 @@ nltk.download('vader_lexicon')
 
 #### Acknowledgments
 We would like to thank the data providers and the open-source community for their invaluable resources and tools that made this project possible. Special thanks to the instructors and peers for their guidance and support throughout the project.
+
+
+
+
+
 
 
 
